@@ -41,46 +41,46 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyBADRDC1h04nIGDFkA9_i5oMoZhVSmJUac',
-    appId: '1:525869975686:web:da103ddf118740a244a907',
-    messagingSenderId: '525869975686',
-    projectId: 'flutterapplic-c99bc',
-    authDomain: 'flutterapplic-c99bc.firebaseapp.com',
-    storageBucket: 'flutterapplic-c99bc.firebasestorage.app',
+    apiKey: 'AIzaSyDSmhl85quw77DYDFb35NPyBmGmM34bSxQ',
+    appId: '1:962837471621:web:01d6e84f8254301bdbe4ec',
+    messagingSenderId: '962837471621',
+    projectId: 'insta-4f6ef',
+    authDomain: 'insta-4f6ef.firebaseapp.com',
+    storageBucket: 'insta-4f6ef.firebasestorage.app',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyB9ri9dNgLo_YCfhN5TdAs6VGva_wXrgW4',
-    appId: '1:525869975686:android:7a4e3429fd5cabf644a907',
-    messagingSenderId: '525869975686',
-    projectId: 'flutterapplic-c99bc',
-    storageBucket: 'flutterapplic-c99bc.firebasestorage.app',
+    apiKey: 'AIzaSyCJPBxxsooVsUeatg-3s62c7aTImTx9C04',
+    appId: '1:962837471621:android:62e7bade7f61ef41dbe4ec',
+    messagingSenderId: '962837471621',
+    projectId: 'insta-4f6ef',
+    storageBucket: 'insta-4f6ef.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAX29tz2gIVRkPvGeS1R6xvhkSWTXqIyIw',
-    appId: '1:525869975686:ios:13a16c71cc75a27244a907',
-    messagingSenderId: '525869975686',
-    projectId: 'flutterapplic-c99bc',
-    storageBucket: 'flutterapplic-c99bc.firebasestorage.app',
-    iosBundleId: 'com.example.flutterApplication19',
+    apiKey: 'AIzaSyDeo7I9Rny3ITmPmgsxsDAQcs1RKshyW40',
+    appId: '1:962837471621:ios:c163916650e98d20dbe4ec',
+    messagingSenderId: '962837471621',
+    projectId: 'insta-4f6ef',
+    storageBucket: 'insta-4f6ef.firebasestorage.app',
+    iosBundleId: 'com.example.insta',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyAX29tz2gIVRkPvGeS1R6xvhkSWTXqIyIw',
-    appId: '1:525869975686:ios:13a16c71cc75a27244a907',
-    messagingSenderId: '525869975686',
-    projectId: 'flutterapplic-c99bc',
-    storageBucket: 'flutterapplic-c99bc.firebasestorage.app',
-    iosBundleId: 'com.example.flutterApplication19',
+    apiKey: 'AIzaSyDeo7I9Rny3ITmPmgsxsDAQcs1RKshyW40',
+    appId: '1:962837471621:ios:c163916650e98d20dbe4ec',
+    messagingSenderId: '962837471621',
+    projectId: 'insta-4f6ef',
+    storageBucket: 'insta-4f6ef.firebasestorage.app',
+    iosBundleId: 'com.example.insta',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyBADRDC1h04nIGDFkA9_i5oMoZhVSmJUac',
-    appId: '1:525869975686:web:f2e96e522e303bd144a907',
-    messagingSenderId: '525869975686',
-    projectId: 'flutterapplic-c99bc',
-    authDomain: 'flutterapplic-c99bc.firebaseapp.com',
-    storageBucket: 'flutterapplic-c99bc.firebasestorage.app',
+    apiKey: 'AIzaSyDSmhl85quw77DYDFb35NPyBmGmM34bSxQ',
+    appId: '1:962837471621:web:a07d7e386a7b4238dbe4ec',
+    messagingSenderId: '962837471621',
+    projectId: 'insta-4f6ef',
+    authDomain: 'insta-4f6ef.firebaseapp.com',
+    storageBucket: 'insta-4f6ef.firebasestorage.app',
   );
 }
